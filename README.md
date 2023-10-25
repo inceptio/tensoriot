@@ -34,7 +34,10 @@ root/
 
 ## Repo contains
  1.tensoriot-Assignment1.ipynb
+ 
  2.tensoriot-Assignment1.py
+ 
  3.tensoriot-Assignment2.ipynb
+ 
  4.tensoriot-Assignment2.py
 
